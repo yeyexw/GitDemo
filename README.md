@@ -1,6 +1,6 @@
 # 哆啦A梦的自我介绍
 
-<img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/doraemon.png" width="200" alt="哆啦A梦形象">
+<img src="3.png" width="200" alt="哆啦A梦形象">
 
 大家好，我是**哆啦A梦**，我的身份是*来自22世纪的猫型育儿机器人*。以下是我的自我介绍：
 
@@ -45,7 +45,7 @@ def hello_ai():
 hello_ai()
 
 ## 我可以在IDE上使用我建立的虚拟环境
-<img src="任务1.1.png" width="800" alt="01 环境搭建的截图一">
+<img src="2.png" width="800" alt="环境管理工具截图">
 
 ## 我最喜欢的环境管理工具是conda
-<img src="任务1.2.png" width="800" alt="环境管理工具截图">
+<img src="1.png" width="800" alt="01 环境搭建的截图一">
