@@ -15,7 +15,7 @@
 ## 我的好朋友
 1.  野比大雄
 2.  源静香
-3.  ~~刚田武~~
+3.  刚田武
 
 ### 重要坐标
 住址：[野比家（东京都练马区月见台）](https://baike.baidu.com/item/%E9%87%8E%E6%AF%94%E5%AE%B6/10573176)
@@ -34,6 +34,16 @@
 
 ## 我的专业是人工智能
 
+
+## 我可以在IDE上使用我建立的虚拟环境
+
+<img src="2.png" width="800" alt="环境管理工具截图">
+
+
+## 我最喜欢的环境管理工具是conda
+
+<img src="1.png" width="800" alt="01 环境搭建的截图一">
+
 ## 我最喜欢的一段代码
 ```python
 # dev_skills_env.py
@@ -44,8 +54,4 @@ def hello_ai():
 
 hello_ai()
 
-## 我可以在IDE上使用我建立的虚拟环境
-<img src="2.png" width="800" alt="环境管理工具截图">
 
-## 我最喜欢的环境管理工具是conda
-<img src="1.png" width="800" alt="01 环境搭建的截图一">
